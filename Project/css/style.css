@@ -1,8 +1,7 @@
 /* FONT */
-body {
+
     background-color: #ff0000;
     font-family: fantasy;
-}
 /* LOG IN CSS */
 body {
     display: flex;
@@ -11,6 +10,8 @@ body {
     height: 100vh;
     background-color: #90EE90;
     margin: 0;
+     background-color: #ff0000;
+    font-family: fantasy;
 }
 
 .login-form {
