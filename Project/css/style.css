@@ -8,6 +8,7 @@ html, body {
     padding: 0;
     height: 100%;
     font: bold;
+    font-size: 20px;
 }
 
 .login-form {
@@ -45,4 +46,14 @@ html, body {
     min-height: 100vh;
     background-color: black;
 }
+
+header {
+    background-color: #004F2E;
+    color: white;
+    font-size: 38px;
+    text-align: center;
+    grid-column-start: 1;
+    grid-column-end: 4;
+}
+
 /*footer */
