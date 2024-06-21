@@ -48,6 +48,10 @@ body1 {
     font-family: 'fantasy';
 }
 .signup-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     background: #FFFFFF;
     padding: 20px;
     border: 2px black solid;
@@ -55,9 +59,5 @@ body1 {
     width: 300px;
     height: 450px;
     text-align: center;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
 }
 /*footer */
