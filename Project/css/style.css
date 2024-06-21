@@ -39,21 +39,6 @@ html, body {
 
 /* SIGN UP CSS */
 /* header */
-#mygrid {
-    display: grid;
-    grid-template-columns: 1fr 800px 2fr;
-    grid-template-rows: 200px auto 150px;
-    min-height: 100vh;
-    background-color: black;
-}
 
-header {
-    background-color: #004F2E;
-    color: white;
-    font-size: 38px;
-    text-align: center;
-    grid-column-start: 1;
-    grid-column-end: 4;
-}
 
 /*footer */
