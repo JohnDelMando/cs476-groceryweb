@@ -1,17 +1,23 @@
 /* FONT */
 
 /* LOG IN CSS */
+/* LOG IN CSS */
 body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
     background-color: #90EE90;
     margin: 0;
-    font-family: 'fantasy';
+    padding: 0;
+    height: 100%;
+    font-family: fantasy;
 }
 
 .login-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     background: #FFFFFF;
     padding: 20px;
     border: 2px black solid;
@@ -19,10 +25,6 @@ body {
     width: 300px;
     height: 450px;
     text-align: center;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
 }
 
 .login-button {
