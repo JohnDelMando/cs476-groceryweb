@@ -48,4 +48,18 @@ html, body {
     color: black;
 }
 
+.signup-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #FFFFFF;
+    padding: 20px;
+    border: 2px black solid;
+    border-radius: 8px;
+    width: 300px;
+    height: 450px;
+    text-align: center;
+}
+
 /*footer */
