@@ -79,7 +79,7 @@ footer p {
 }
 
 #footer-login{
-background-color: pink;
+background-color: green;
 grid-column-start: 1;
 grid-column-end: 4;
 grid-row-start: 3;
