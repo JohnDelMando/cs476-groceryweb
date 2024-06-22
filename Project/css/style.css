@@ -37,6 +37,10 @@ html, body {
     font-weight: bold;
 }
 
+.login-header{
+    font-size: 20px;
+}
+
 .header {
     background-color: #008000;
     color: white;
