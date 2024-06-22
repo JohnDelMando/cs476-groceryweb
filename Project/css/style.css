@@ -59,11 +59,7 @@ header {
     grid-column-end: 4;
 }
 
-
-
-
-
-/*.signup-form {
+.signup-form {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -84,7 +80,7 @@ header {
     border-radius: 10px;
     color: white;
     font-weight: bold;
-}*/
+}
 
 
 /*footer */
