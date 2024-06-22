@@ -66,18 +66,6 @@ html, body {
 
 /*footer */
 
-footer {
-    background-color: black;
-    color: white;
-    clear: both;
-    padding: 20px 0;
-}
-
-footer p {
-    text-align: center;
-    font-size: 20px;
-}
-
 #footer-login{
 background-color: green;
 grid-column-start: 1;
