@@ -44,6 +44,7 @@ html, body {
     color: white;
     text-align: center;
     padding: 5px 0;
+    height: 10px;
 }
 /*footer */
 .footer {
@@ -51,6 +52,8 @@ html, body {
     color: white;
     text-align: center;
     padding: 5px 0;
+    height: 10px;
+    
 }
 
 /* SIGN UP CSS */
