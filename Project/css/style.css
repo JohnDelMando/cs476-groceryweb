@@ -53,19 +53,16 @@ color: black;
 }
 
 /* header */
+.header {
+    background-color: #008000;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
 /*footer */
 
 /* SIGN UP CSS */
 /* header */
-
-header {
-    background-color: #004F2E;
-    color: white;
-    font-size: 38px;
-    text-align: center;
-    grid-column-start: 1;
-    grid-column-end: 4;
-}
 
 /*.signup-form {
     display: flex;
