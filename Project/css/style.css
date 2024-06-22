@@ -37,24 +37,6 @@ html, body {
     font-weight: bold;
 }
 
-#container{
-/*     display: grid;
-    grid-template-columns: 1fr 1.5fr 1fr;
-    grid-template-rows: 150px auto 100px;
-    grid-gap: 5px;
-
-    min-height: 100vh;
-    width: 100vw; */
-}
-
-#login-headerOne {
-color: black;
-}
-
-#login-headerTwo {
-color: black;
-background-color: white;
-}
 
 /* header */
 .header {
@@ -100,13 +82,3 @@ background-color: white;
 
 /*footer */
 
-#footer-login{
-background-color: pink;
-color: white;
-width: 100;
-/* grid-column-start: 1;
-grid-column-end: 4;
-grid-row-start: 3;
-grid-row-end: 4; */
-text-align: center;
-}
