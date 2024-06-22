@@ -64,6 +64,12 @@ background-color: white;
     padding: 10px 0;
 }
 /*footer */
+.footer {
+    background-color: #008000;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
 
 /* SIGN UP CSS */
 /* header */
