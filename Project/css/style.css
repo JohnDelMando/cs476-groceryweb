@@ -40,14 +40,6 @@ html, body {
 /* SIGN UP CSS */
 /* header */
 
-.signup-container {
-    display: inline-block;
-    width: 50%;
-    margin-top: 10%;
-    justify-content: center;
-    color: black;
-}
-
 .signup-form {
     display: flex;
     flex-direction: column;
