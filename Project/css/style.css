@@ -1,4 +1,4 @@
-/* LOG IN CSS */
+/* LOG IN CSS START*/
 html, body {
     display: flex;
     flex-direction: column;
@@ -37,26 +37,23 @@ html, body {
     font-weight: bold;
 }
 
-
-/* header */
 .header {
     background-color: #008000;
     color: white;
     text-align: center;
-    padding: 1px 0;
-    height: 25px;
+    padding: 10px 0;
 }
-/*footer */
+
 .footer {
     background-color: #008000;
     color: white;
     text-align: center;
-    padding: 1px 0;
-    height: 25px;
-    
+    padding: 10px 0;
 }
 
-/* SIGN UP CSS */
+/* LOG IN CSS END*/
+
+/* SIGN UP CSS START*/
 /* header */
 
 .signup-form {
@@ -82,6 +79,4 @@ html, body {
     font-weight: bold;
 }
 
-
-/*footer */
-
+/* SIGN UP CSS END*/
