@@ -77,7 +77,8 @@ html, body {
 /*footer */
 
 #footer-login{
-background-color: blue;
+background-color: red;
+width: 100;
 grid-column-start: 1;
 grid-column-end: 4;
 grid-row-start: 3;
