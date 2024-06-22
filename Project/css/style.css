@@ -50,6 +50,14 @@ html, body {
 /* SIGN UP CSS */
 /* header */
 
+#mygrid {
+    display: grid;
+    grid-template-columns: 1fr 800px 2fr;
+    grid-template-rows: 200px auto 150px;
+    min-height: 100vh;
+    background-color: black;
+}
+
 .signup-form {
     display: flex;
     flex-direction: column;
