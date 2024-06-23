@@ -118,3 +118,30 @@ html, body {
     text-align: center;
 }
 /*CART CSS END*/
+
+/*CHECKOUT CSS START*/
+.checkout-header {
+    background-color: #008000;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.checkout-page{
+}
+
+.checkout-container{
+}
+
+.checkout-content{
+}
+
+.checkout-footer {
+    background-color: #008000;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+
+/*CHECKOUT CSS START*/
