@@ -164,7 +164,16 @@ html, body {
     border-radius: 10px;
     color: white;
     font-weight: bold;
-    padding-right: 50px;
 }
+
+.checkout-payment-button {
+    padding: 10px 40px;
+    border: none;
+    background-color: #013220;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
+
 
 /*CHECKOUT CSS START*/
