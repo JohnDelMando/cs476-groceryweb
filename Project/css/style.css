@@ -125,21 +125,27 @@ html, body {
     color: white;
     text-align: center;
     padding: 10px 0;
+    height: 100px;
 }
 
 .checkout-page{
-    border: 2px black solid;
-    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
 }
 
 .checkout-container{
+    background: #FFFFFF;
     border: 2px black solid;
-    border-radius: 8px;
+    border-radius: 4px;
+    height: 761px;
+    width: 660px;
+    text-align: center;
 }
 
 .checkout-content{
-    border: 2px black solid;
-    border-radius: 8px;
+    
 }
 
 .checkout-footer {
@@ -147,6 +153,7 @@ html, body {
     color: white;
     text-align: center;
     padding: 10px 0;
+    height: 100px;
 }
 
 .checkout-home-button {
