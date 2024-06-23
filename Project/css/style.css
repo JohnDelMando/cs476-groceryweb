@@ -223,10 +223,13 @@ html, body {
     border: 2px black solid;
     border-radius: 4px;
     width: 300px;
-    justify-content: center;
-    align-items: center;
+/*     justify-content: center;
+    align-items: center; */
     text-align: center;
 }
-
+.payment-items{
+    justify-content: center;
+    align-items: center;
+}
 
 /*CHECKOUT CSS START*/
