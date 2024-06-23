@@ -85,3 +85,21 @@ html, body {
 }
 
 /* SIGN UP CSS END*/
+
+/*CART CSS START*/
+.cart-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+}
+
+.cart-container {
+    background: #FFFFFF;
+    border: 2px black solid;
+    border-radius: 4px;
+    height: 761px;
+    width: 660px;
+    text-align: center;
+}
+/*CART CSS END*/
