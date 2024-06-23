@@ -184,5 +184,10 @@ html, body {
     font-weight: bold;
 }
 
+.payment-form{
+    border: 2px black solid;
+    border-radius: 4px;
+}
+
 
 /*CHECKOUT CSS START*/
