@@ -87,6 +87,21 @@ html, body {
 /* SIGN UP CSS END*/
 
 /*CART CSS START*/
+.cart-header {
+    background-color: #008000;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    height: 100px;
+}
+
+.cart-footer {
+    background-color: #008000;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    height: 100px;
+}
 .cart-page {
     display: flex;
     justify-content: center;
