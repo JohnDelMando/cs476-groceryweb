@@ -236,9 +236,20 @@ html, body {
 
 /*PROFILE CSS START*/
 .profile-header{
+    background-color: #008000;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    height: 100px;
 }
 
 .profile-home-button{
+     padding: 10px 40px;
+    border: none;
+    background-color: #013220;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
 }
 
 .search-bar{
@@ -270,6 +281,11 @@ html, body {
 }
 
 .profile-footer{
+    background-color: #008000;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    height: 100px;
 }
 
 /*PROFILE CSS END*/
