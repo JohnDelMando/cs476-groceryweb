@@ -235,30 +235,35 @@ html, body {
 
 
 /*PROFILE CSS START*/
-.profile-header{
-    background-color: #008000;
-    color: white;
-    text-align: center;
-    padding: 10px 0;
+.profile-header {
+    border: 6px black solid;
     height: 100px;
+    display: flex;
+    flex-direction: row;
 }
 
-.profile-home-button{
-     padding: 10px 40px;
-    border: none;
-    background-color: #013220;
-    border-radius: 10px;
-    color: white;
-    font-weight: bold;
+#profile-home-button {
+    border: 6px black solid;
+    height: 90px;
+    width: 120px;
 }
 
-.search-bar{
+.search-bar {
+    border: 6px black solid;
+    height: 90px;
+    width: 1700px;
 }
 
-.cart-logo{
+.cart-logo {
+    border: 6px black solid;
+    height: 90px;
+    width: 150px;
 }
 
-.profile-logo{
+.profile-logo {
+    border: 6px black solid;
+    height: 90px;
+    width: 150px;
 }
 
 .profile-page{
