@@ -281,22 +281,16 @@ html, body {
 .profile-info{
     border: 6px black solid;
     height: 90px;
-    display: flex;
-    flex-direction: column;
 }
 
 .buttons-under-profile{
     border: 6px black solid;
     height: 90px;
-    display: flex;
-    flex-direction: column;
 }
 
 .orders-container{
     border: 6px black solid;
     height: 90px;
-    display: flex;
-    flex-direction: column;
 }
 
 .item-row{
