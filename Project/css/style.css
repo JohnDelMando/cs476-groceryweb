@@ -278,6 +278,7 @@ html, body {
 
 .profile-info{
     border: 6px black solid;
+    height: 100px;
 }
 
 .buttons-under-profile{
