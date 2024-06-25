@@ -236,73 +236,59 @@ html, body {
 
 /*PROFILE CSS START*/
 .profile-header {
-    border: 6px black solid;
+    border: 6px solid black;
     height: 100px;
     display: flex;
-    flex-direction: row;
     justify-content: space-between;
-}
-
-#profile-home-button {
-    border: 6px black solid;
-    height: 90px;
-    width: 120px;
+    align-items: center;
     flex-shrink: 0;
 }
 
+#profile-home-button, .cart-logo, .profile-logo {
+    border: 6px solid black;
+    height: 90px;
+    width: 150px;
+    flex-shrink: 0;
+}
+
+#profile-home-button {
+    width: 120px;
+}
+
 .search-bar {
-    border: 6px black solid;
+    border: 6px solid black;
     height: 90px;
     width: 60vw;
     flex-shrink: 0;
 }
 
-.cart-logo {
-    border: 6px black solid;
-    height: 90px;
-    width: 150px;
-    flex-shrink: 0;
-}
-
-.profile-logo {
-    border: 6px black solid;
-    height: 90px;
-    width: 150px;
-    flex-shrink: 0;
-}
-
-.profile-page{
-    border: 6px black solid;
-    height: 700px;
+.profile-page {
+    border: 6px solid black;
+    flex: 1;
     display: flex;
     flex-direction: column;
+    overflow: hidden;
 }
 
-#profile-info{
-    border: 6px black solid;
-    height: 140px;
-}
-
-#buttons-under-profile{
-    border: 6px black solid;
-    height: 140px;
-}
-
-.orders-container{
-    border: 6px black solid;
-    height: 180px;
-}
-
-.item-row{
-    border: 6px black solid;
-}
-
-.profile-footer{
-    background-color: #008000;
-    color: white;
-    text-align: center;
-    padding: 10px 0;
+#profile-info, #buttons-under-profile {
+    border: 3px solid black;
     height: 100px;
+    flex-shrink: 0;
+}
+.orders-container {
+    border: 6px solid black;
+    flex: 1;
+    overflow-y: auto;
 }
 
+.item-row {
+    border: 6px solid black;
+    height: 150px;
+}
+
+.profile-footer {
+    border: 6px solid black;
+    height: 100px;
+    flex-shrink: 0;
+}
 /*PROFILE CSS END*/
