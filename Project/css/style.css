@@ -280,6 +280,8 @@ html, body {
 
 .profile-info{
     border: 6px black solid;
+    display: flex;
+    flex-direction: column;
     height: 90px;
 }
 
