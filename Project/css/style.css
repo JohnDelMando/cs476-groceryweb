@@ -295,6 +295,7 @@ html, body {
 
 .item-row{
     border: 6px black solid;
+    height: 100px;
 }
 
 .profile-footer{
