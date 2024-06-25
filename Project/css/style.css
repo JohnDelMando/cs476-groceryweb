@@ -278,14 +278,12 @@ html, body {
     flex-direction: column;
 }
 
-.profile-info{
+#profile-info{
     border: 6px black solid;
-    display: flex;
-    flex-direction: column;
     height: 90px;
 }
 
-.buttons-under-profile{
+#buttons-under-profile{
     border: 6px black solid;
     height: 90px;
 }
