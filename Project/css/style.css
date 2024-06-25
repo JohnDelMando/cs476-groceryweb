@@ -280,20 +280,21 @@ html, body {
 
 #profile-info{
     border: 6px black solid;
-    height: 90px;
+    height: 100px;
 }
 
 #buttons-under-profile{
     border: 6px black solid;
-    height: 90px;
+    height: 100px;
 }
 
 .orders-container{
     border: 6px black solid;
-    height: 90px;
+    height: 100px;
 }
 
 .item-row{
+    border: 6px black solid;
 }
 
 .profile-footer{
