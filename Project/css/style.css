@@ -284,13 +284,16 @@ html, body {
 }
 
 .orders-container{
+    border: 6px black solid;
 }
 
 
 .history-container{
+    border: 6px black solid;
 }
 
 .item-row{
+    border: 6px black solid;
 }
 
 .profile-footer{
