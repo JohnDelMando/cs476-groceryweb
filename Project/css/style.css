@@ -279,22 +279,16 @@ html, body {
 .profile-info{
     border: 6px black solid;
     height: 90px;
-    display: flex;
-    flex-direction: row;
 }
 
 .buttons-under-profile{
     border: 6px black solid;
     height: 90px;
-    display: flex;
-    flex-direction: row;
 }
 
 .orders-container{
     border: 6px black solid;
     height: 90px;
-    display: flex;
-    flex-direction: row;
 }
 
 .item-row{
