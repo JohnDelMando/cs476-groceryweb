@@ -272,12 +272,15 @@ html, body {
 }
 
 .profile-page{
+    border: 6px black solid;
 }
 
 .profile-info{
+    border: 6px black solid;
 }
 
 .buttons-under-profile{
+    border: 6px black solid;
 }
 
 .orders-container{
