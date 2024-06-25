@@ -255,6 +255,7 @@ html, body {
     height: 90px;
     width: 60vw;
     flex-shrink: 0;
+}
 
 .cart-logo {
     border: 6px black solid;
