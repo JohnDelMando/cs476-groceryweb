@@ -278,20 +278,17 @@ html, body {
 
 .profile-info{
     border: 6px black solid;
-    height: 100px;
+    height: 90px;
 }
 
 .buttons-under-profile{
     border: 6px black solid;
+    height: 90px;
 }
 
 .orders-container{
     border: 6px black solid;
-}
-
-
-.history-container{
-    border: 6px black solid;
+    height: 90px;
 }
 
 .item-row{
