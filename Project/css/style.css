@@ -202,15 +202,6 @@ html, body {
     display: grid;
     margin: 20px;
     border: 2px black solid;
-    border-radius: 10px;
-    width: 60%;
-    color: black;
-    background-color: lightblue;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 30px;
-    font-size: 20px;
-    height: 30vh;
     overflow-y: scroll;
 }
 
