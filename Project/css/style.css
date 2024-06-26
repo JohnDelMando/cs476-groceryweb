@@ -227,6 +227,10 @@ html, body {
     border-radius: 10px;
     color: white;
     font-weight: bold;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 10px;
 }
 
 .checkout-payment-button {
