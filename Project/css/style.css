@@ -203,6 +203,7 @@ html, body {
     display: grid;
     margin: 20px;
     border: 2px black solid;
+    height: 600px;
     overflow-y: scroll;
 }
 
