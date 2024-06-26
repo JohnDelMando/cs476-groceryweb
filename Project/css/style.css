@@ -198,6 +198,7 @@ html, body {
 }
 
 .checkout-content{
+    display: grid;
     margin: 20px;
     border: 2px black solid;
     overflow-y: scroll;
