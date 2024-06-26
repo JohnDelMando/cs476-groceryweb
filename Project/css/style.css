@@ -203,8 +203,8 @@ html, body {
     display: grid;
     margin: 20px;
     border: 2px black solid;
-    height: 300px;
-    overflow-y: scroll;
+    height: 500px;
+    /*overflow-y: scroll;*/
 }
 
 .checkout-footer {
