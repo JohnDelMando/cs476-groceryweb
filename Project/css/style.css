@@ -180,6 +180,9 @@ html, body {
 }
 
 .checkout-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
     background: #FFFFFF;
     border: 2px black solid;
     border-radius: 4px;
