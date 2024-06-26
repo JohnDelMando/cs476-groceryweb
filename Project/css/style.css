@@ -192,7 +192,7 @@ html, body {
 }
 
 
-.div1 {
+.div1, .div2, .div3, .div4 {
     padding: 10px;
     border: 1px solid black;
     margin-top: 5px;
