@@ -193,10 +193,11 @@ html, body {
 
 
 .div1 {
-    padding: 10px;
+    padding: 30px 10px;
     border: 5px solid black;
-    margin-top: auto;
-    margin-bottom: auto;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    width: 80%;
 }
 
 .checkout-content{
