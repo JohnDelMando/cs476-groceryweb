@@ -192,7 +192,7 @@ html, body {
 }
 
 
-.div1, .div2 {
+.div1 {
     padding: 10px;
     border: 1px solid black;
 }
