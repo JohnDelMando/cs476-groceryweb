@@ -194,7 +194,8 @@ html, body {
 .div1, .div2 {
     padding: 10px;
     border: 1px solid black;
-    vertical-align: top;
+    margin-top: 10px;
+    margin-bottom: 6px;
 }
 
 .checkout-content{
