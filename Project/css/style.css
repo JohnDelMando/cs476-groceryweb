@@ -204,7 +204,7 @@ html, body {
     margin: 20px;
     border: 2px black solid;
     height: 500px;
-    /*overflow-y: scroll;*/
+    overflow-y: scroll;
 }
 
 .checkout-footer {
