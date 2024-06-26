@@ -173,17 +173,10 @@ html, body {
 }
 
 .checkout-page{
-    /*display: flex;
+    display: flex;
     justify-content: center;
     align-items: center;
-    flex-grow: 1;*/
-    display: grid;
-    text-align: center;
-    grid-column: 2 / 4;
-    grid-row: 2 / 4;
-    border-radius: 10px;
-    background-color: #004F2E;
-    color: white;
+    flex-grow: 1;
     
 }
 
